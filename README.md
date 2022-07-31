@@ -3,12 +3,16 @@
 ## Basic information.
 
 This is just a jbnb vile that will show some skills that I have with data processing for NLP.
+<br />
 It was designed to show how basic data processing works, and how we can approach data science problems.
 
 ## For further investigation.
-No prior knowledge is required, however, there is some nuance to the info that is presented in this document. If you're keen to look for some more information on different data science features, here are two links.
+No prior knowledge is required, however, there is some nuance to the info that is presented in this document.
+<br />
+If you're keen to look for some more information on different data science features, here are two links.
 
 [Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning)
+<br />
 [Cousera](https://www.coursera.org/learn/machine-learning)
 
 ## Running the notebook
